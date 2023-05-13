@@ -1,0 +1,207 @@
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Npgsql.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\nsia\Desktop\Console\Migration\Migration\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsia\Desktop\Console\Migration\Migration\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\nsia\Desktop\Console\Migration\Migration\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\nsia\Desktop\Console\Migration\Migration\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nsia\Desktop\Console\Migration\Migration\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\nsia\Desktop\Console\Migration\Migration\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\nsia\Desktop\Console\Migration\Migration\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\nsia\Desktop\Console\Migration\Migration\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Npgsql.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\Microsoft.Psi.MicrosoftSpeech.Windows.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\System.Speech.dll
+C:\Users\nsia\Desktop\Console\Migration\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Speech.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jalal Safi\Desktop\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Jalal Safi\Desktop\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Jalal Safi\Desktop\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.Psi.MicrosoftSpeech.Windows.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\System.Collections.Immutable.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\System.ComponentModel.Annotations.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\System.Speech.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Speech.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CopyComplete
+C:\Users\Jalal Safi\Desktop\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll
+C:\Users\Jalal Safi\Desktop\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\Jalal Safi\Desktop\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Jalal Safi\Desktop\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csprojAssemblyReference.cache
